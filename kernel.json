@@ -1,0 +1,12 @@
+{
+    "argv": [
+        "python",
+        "-m",
+        "cmd_kernel",
+        "-f",
+        "{connection_file}"
+    ],
+    "codemirror_mode": "shell",
+    "display_name": "cmd",
+    "language": "cmd"
+}
