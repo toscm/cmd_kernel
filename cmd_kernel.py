@@ -22,7 +22,4 @@ class MyKernel(Kernel):
 
 
 if __name__ == '__main__':
-    print("sdf")
-    with open("C:/Users/tobi/log.txt", "w") as f:
-        f.write("test")
     IPKernelApp.launch_instance(kernel_class=MyKernel)
